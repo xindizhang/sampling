@@ -44,7 +44,7 @@ The number of your chosen topic: `#`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+TESTING ASSIGNMENT 2
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
